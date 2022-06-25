@@ -11,7 +11,8 @@
 
 - Visual Heirachy
 - Accessibility
-- Startup + jovial personality
+- Responsiveness
+- Interactive Elements
 
 
 ### Technologies used
